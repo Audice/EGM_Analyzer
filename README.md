@@ -5,4 +5,4 @@ An example of an electrogram signal to test the program's functionality: https:/
 
 Neural network model UNET++: https://disk.yandex.ru/d/jF1lG9ZMFrhxtg and https://disk.yandex.ru/d/gH1RfqIvW_N6aw
 
-Link to the dataset used:
+Link to the dataset used: https://disk.yandex.ru/d/CpPF5O6WaoASCA
